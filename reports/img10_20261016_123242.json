@@ -1,0 +1,33 @@
+{
+  "filename": "img10.jpg",
+  "created_at": "2026-10-16T12:32:42",
+  "model": "google/gemini-3.1-flash-lite",
+  "report": "### FINAL INVESTIGATION REPORT: Hawa Mahal Facade Identification\n\n#### 1. OVERVIEW\nThe image depicts a distinctive, multi-storied facade characterized by reddish-pink sandstone, a honeycomb-like arrangement of projecting balconies (*jharokhas*), and intricate lattice screens (*jali*). The structure is captured from an upward angle with a flock of birds in flight overhead. The visual evidence strongly correlates with the iconic Hawa Mahal in Jaipur, India.\n\n#### 2. DATA CATEGORIZATION\n\n**OBSERVED (Visual Evidence from Image)**\n*   **Material:** Reddish-pink stone facade.\n*   **Structure:** Five-story building featuring a dense, repeating pattern of *jharokhas* (projecting windows) capped with *chhatris* (domes).\n*   **Design:** Tapering, honeycomb-like architectural composition.\n*   **Environment:** Large flock of birds captured in the upper airspace.\n*   **Perspective:** Upward-angled, close-up shot suggesting ground-level positioning.\n*   **Authenticity:** The image appears to be a standard architectural photograph with no visible signs of digital manipulation or AI-generated artifacts.\n\n**INFERRED (Deductive Analysis)**\n*   **Location:** Likely Jaipur, Rajasthan, India, given the specific architectural style associated with the city’s heritage monuments.\n*   **Cultural Purpose:** The dense latticework suggests a design intended for privacy (*purdah*) and passive cooling (the \"Venturi effect\"), common in Rajput palace architecture.\n*   **Identification:** The unique, high-density facade design is synonymous with the Hawa Mahal, making it the only probable candidate for this structure.\n\n**EXTERNALLY VERIFIED (Corroborated by Search Results)**\n*   **Subject Identity:** The \"honeycomb-like facade\" composed of 953 small windows (*jharokhas*) made of red and pink sandstone is confirmed as the Hawa Mahal in Jaipur. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Hawa_Mahal), [Kaarwan](https://www.kaarwan.com/blog/architecture/hawa-mahal-an-iconic-symbol-of-rajput-architecture?id=881))\n*   **Historical Context:** Built in 1799 by Maharaja Sawai Pratap Singh, the structure served as an extension of the City Palace to the *Zenana* (women’s chambers). (Source: [Wikipedia](https://en.wikipedia.org/wiki/Hawa_Mahal), [Scribd](https://www.scribd.com/document/614756057/HAWA-MAHAL))\n*   **Architectural Function:** The facade was specifically designed for natural ventilation and cross-ventilation, earning it the moniker \"Palace of Winds.\" (Source: [Front Desk Architects](https://frontdesk.co.in/building-science/natural-ventilation-in-hawa-mahal-jaipur/))\n\n#### 3. ANALYSIS OF CORRELATION\nThe correlation between the observed visual elements (red sandstone, five-story *jharokha* pattern, latticework) and the external sources is absolute. The architectural signature of the Hawa Mahal is globally recognized and highly specific; no other structure matches the combination of the 953-window honeycomb facade and the specific Rajput-style ventilation design described in the verified literature.\n\n#### 4. CONCLUSION\nThe photographed subject is the **Hawa Mahal** located in **Jaipur, Rajasthan, India**. The identification is supported by both detailed visual inspection and authoritative architectural documentation. No conflicting evidence exists.",
+  "sources": [
+    {
+      "title": "Hawa Mahal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawa_Mahal",
+      "snippet": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. Hawa Mahal, also known as the \"Palace of Winds\", was built in 1799 by Maharaja Sawai Pratap Singh. The palace is known for its honeycomb-like façade, featuring numerous small windows and balconies ..."
+    },
+    {
+      "title": "Natural ventilation in Hawa mahal, Jaipur - Front Desk Architects",
+      "url": "https://frontdesk.co.in/building-science/natural-ventilation-in-hawa-mahal-jaipur/",
+      "snippet": "In hawa mahal jaipur larger opening in west side and small opening in east side , this strategy receive north west side wind into the building , we always feel the breeze The design of Hawa Mahal in Jaipur is based on the principle of cross-ventilation, which is a fundamental concept in fluid mechanics."
+    },
+    {
+      "title": "Hawa Mahal: Jaipur's Architectural Gem",
+      "url": "https://www.scribd.com/document/614756057/HAWA-MAHAL",
+      "snippet": "The Hawa Mahal is a palace in Jaipur, India built in 1799 by Maharaja Sawai Pratap Singh. It was designed by Lal Chand Ustad and built from red and pink sandstone. The five-story pyramidal structure has 953 small windows that allowed royal women to observe the street without being seen while obeying purdah rules. The intricate lattice work also allowed air to flow through and keep the palace ..."
+    },
+    {
+      "title": "Hawa Mahal Architecture: History, Facts & Significance Explained",
+      "url": "https://www.kaarwan.com/blog/architecture/hawa-mahal-an-iconic-symbol-of-rajput-architecture?id=881",
+      "snippet": "Hawa Mahal is one of the most recognised buildings in India. Built in 1799 by Maharaja Sawai Pratap Singh in Jaipur, Rajasthan, it is a five-storey palace made entirely of red and pink sandstone, rising 15 metres from its base. Popularly called the Palace of Winds, its facade of 953 intricately carved jharokhas latticed windows makes it instantly recognisable. It is both an architectural ..."
+    },
+    {
+      "title": "History of Hawa Mahal: The Palace of Winds, Architecture, and Cultural ...",
+      "url": "http://www.indiawiki.net/history-of-hawa-mahal-hawa-mahal-historical-background-and-origins/",
+      "snippet": "Explore the complete history of Hawa Mahal in Jaipur. Discover its Rajput architecture, the story behind its 953 jharokhas, and its role in the royal lifestyle of the Sawai Pratap Singh era. A comprehensive guide for history enthusiasts."
+    }
+  ]
+}
